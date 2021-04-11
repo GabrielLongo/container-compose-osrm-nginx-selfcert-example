@@ -1,2 +1,2 @@
-# container-compose-osrm-nginx-certbot-stack-example
-OSRM backend with Nginx Reverse Proxy and Cerbot example stack over podman-compose (docker-compose)
+# container-compose-osrm-nginx-selfcert-example
+OSRM backend with Nginx Reverse Proxy and omgwtfssl self certification example stack over podman-compose (docker-compose)
